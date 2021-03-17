@@ -1,4 +1,6 @@
 ## Local development
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fweb-php.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fweb-php?ref=badge_shield)
+
 
 This is the git repo for the official www.php.net website.
 
@@ -24,3 +26,7 @@ https://wiki.php.net/web/mirror
 
 Code must function on a vanilla PHP 7.2 installation. 
 Please keep this in mind before filing a pull request.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fweb-php.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fweb-php?ref=badge_large)
